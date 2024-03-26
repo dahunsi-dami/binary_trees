@@ -2,7 +2,6 @@
 /**
  * binary_tree_is_leaf - checks if a node is a leaf.
  * @node: pointer to the node to check.
- * @value: value to put in the new node.
  * Return: 1 if node is a leaf, else 00.
  */
 int binary_tree_is_leaf(const binary_tree_t *node)
